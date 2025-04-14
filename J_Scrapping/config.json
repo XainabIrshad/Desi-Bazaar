@@ -1,0 +1,19 @@
+{
+    "main_pages": [
+        "https://www.junaidjamshed.com/womens/kurti.html",
+        "https://www.junaidjamshed.com/womens/un-stitched.html",
+        "https://www.junaidjamshed.com/womens/stitched.html",
+        "https://www.junaidjamshed.com/womens/semi-formal-stitched.html",
+        "https://www.junaidjamshed.com/womens/nearang-handwoven-collection.html"
+
+    ],
+    "csv_file_path": "junaid_jamshed.csv",
+    "new_csv_file_path": "new_products.csv",
+    "image_save_dir": "Images",
+    "products_per_page": 36,
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_password": "eaaw6N+}",
+    "db_name": "junaid_jamshed",
+    "table_name": "products"
+}
